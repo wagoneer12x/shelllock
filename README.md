@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://res.cloudinary.com/ddyc1es5v/image/upload/v1768054074/gh-repos/applock-macos/apple.png" alt="logo" width="80" height="80"/>
-<img src="https://res.cloudinary.com/ddyc1es5v/image/upload/v1768054076/gh-repos/applock-macos/touchid.png" alt="logo" width="80" height="80"/>
-<img src="https://res.cloudinary.com/ddyc1es5v/image/upload/v1768054074/gh-repos/applock-macos/terminal.png" alt="logo" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/vdutts7/webp/main/webp/apple.webp" alt="logo" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/vdutts7/webp/main/webp/touchid.webp" alt="logo" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/vdutts7/webp/main/webp/terminal.webp" alt="logo" width="80" height="80"/>
 
 <h1 align="center">shelllock-macos</h1>
 <p align="center"><i><b>Protect any shell command behind Touch ID 🔐</b></i></p>
