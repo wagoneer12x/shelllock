@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vdutts7/webp/main/apple.webp" alt="logo" width="80" height="80" />
+<img src="https://raw.githubusercontent.com/vdutts7/webp/main/macos.webp" alt="logo" width="80" height="80" />
 <img src="https://raw.githubusercontent.com/vdutts7/webp/main/touchid.webp" alt="logo" width="80" height="80" />
 <img src="https://raw.githubusercontent.com/vdutts7/webp/main/terminal.webp" alt="logo" width="80" height="80" />
 
