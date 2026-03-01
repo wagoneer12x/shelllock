@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vdutts7/webp/main/macos.webp" alt="logo" width="80" height="80" />
-<img src="https://raw.githubusercontent.com/vdutts7/webp/main/touchid.webp" alt="logo" width="80" height="80" />
-<img src="https://raw.githubusercontent.com/vdutts7/webp/main/terminal.webp" alt="logo" width="80" height="80" />
+<img src="https://raw.githubusercontent.com/vdutts7/webp/refs/heads/main/macos-finder.webp" alt="logo" width="80" height="80" />
+<img src="https://raw.githubusercontent.com/vdutts7/webp/refs/heads/main/touchid.webp" alt="logo" width="80" height="80" />
+<img src="https://raw.githubusercontent.com/vdutts7/webp/refs/heads/main/macos-terminal.webp" alt="logo" width="80" height="80" />
 
 <h1>shelllock-macos</h1>
 <p><i><b>Protect any shell command behind Touch ID 🔐</b></i></p>
