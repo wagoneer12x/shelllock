@@ -6,7 +6,7 @@ import LocalAuthentication
 /// Source: https://github.com/vdutts7/shelllock-macos
 /// License: MIT
 
-let VERSION = "1.0.0"
+let VERSION = "1.0.1"
 let AUTHOR = "vdutts7"
 let HOMEPAGE = "https://vd7.io"
 let REPO = "https://github.com/vdutts7/shelllock-macos"
@@ -126,6 +126,11 @@ struct ShellLock {
             // Script/command mode
             process.arguments = ["-c", args.joined(separator: " ")]
         }
+        
+        // Child gets SHELLLOCK_VERIFIED=1 only from us (after auth), not inherited from parent.
+        var env = ProcessInfo.processInfo.environment
+        env["SHELLLOCK_VERIFIED"] = "1"
+        process.environment = env
         
         process.standardOutput = FileHandle.standardOutput
         process.standardError = FileHandle.standardError
